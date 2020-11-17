@@ -47,7 +47,7 @@ myButton.pack()
 
 #request counter 
 
-L2 = Tk.Lable(root, text='Requests sent: ', p)
+L2 = Tk.Lable(root, text='Requests sent')
 L2.pack()
 
 
