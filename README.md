@@ -3,6 +3,7 @@ Insatll :
 pip install requests
 pip install threading
 pip install tkinter
+pip install pillow
 //
 
 Usage:
