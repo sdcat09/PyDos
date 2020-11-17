@@ -1,4 +1,4 @@
-Insatll :
+Install :
 
 pip install requests
 pip install threading
