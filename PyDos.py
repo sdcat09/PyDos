@@ -12,9 +12,6 @@ root.title('PyDos')
 root.geometry("300x350")
 
 #pretty things
-img = ImageTk.PhotoImage(Image.open(r"C:\Users\scott\Pictures\w.jpg"))
-lable = Label(image=img)
-lable.pack()
 root.configure(bg='black')
 
 L1 = Tk.Lable(root, text="PyDos V1.0", padx=10, pady=10, bg='black', fg='white')
